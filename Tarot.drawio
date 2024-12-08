@@ -1,20 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="3MQLyaqwNEJ2WR4THpn-">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-1" value="Landing Title Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="415" width="720" height="270" as="geometry" />
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-1" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="100" width="720" height="270" as="geometry" />
         </mxCell>
         <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-2" value="Toggle Ron Swanson" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="650" width="185" height="35" as="geometry" />
+          <mxGeometry x="65" y="335" width="185" height="35" as="geometry" />
         </mxCell>
         <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-4" value="Light/Dark Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="650" width="185" height="35" as="geometry" />
+          <mxGeometry width="185" height="35" as="geometry" />
         </mxCell>
         <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-5" value="Log In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-6" value="Previous Readings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="335" width="185" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-7" value="Click ME For a Reading" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="335" width="185" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-8" value="Questionnaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="400" width="720" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="65" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="365" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="665" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-14" value="Pulled Cards" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="700" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="630" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1RvO9Ly-jw2Nj_3bfQF-16" value="Andrew, doing his best&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="590" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
