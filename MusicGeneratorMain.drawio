@@ -109,6 +109,24 @@
         <mxCell id="nZLA5djoOpEZxizHSnG1-43" value="Playback Feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="720" width="670" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="nZLA5djoOpEZxizHSnG1-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="75" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nZLA5djoOpEZxizHSnG1-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="122" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nZLA5djoOpEZxizHSnG1-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nZLA5djoOpEZxizHSnG1-47" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZLA5djoOpEZxizHSnG1-48" value="Save" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="137" y="970" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZLA5djoOpEZxizHSnG1-49" value="Cut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="960" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
