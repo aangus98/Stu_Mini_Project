@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="chRFSeg9oThe3F_H1h3B">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jKWWZiokK48BsuCGdx47-1" value="Title w/ Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="270" width="740" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jKWWZiokK48BsuCGdx47-3" value="In order to use this website, you must log in or create an account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="570" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jKWWZiokK48BsuCGdx47-4" value="&lt;font color=&quot;#ff9999&quot;&gt;!!LOG IN!!&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="660" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jKWWZiokK48BsuCGdx47-5" value="&lt;font color=&quot;#ff9999&quot;&gt;!!CREATE ACCOUNT!!&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="660" width="145" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
